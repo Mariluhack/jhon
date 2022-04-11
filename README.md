@@ -18,8 +18,10 @@ Repo creado en conjunto con las Padawans de Hackademy para repasar conceptos bá
 Abre una terminal en un directorio fácilmente accesible y sigue los pasos siguientes para correr la aplicación.
 
 ---
+
 **Nota:**
 Los comandos están indicados con el signo $ y este símbolo no debe ser incluido en la terminal.
+
 ---
 
 1. Clona el repo `$ git clone https://github.com/DigitalNaut/react-repaso`
