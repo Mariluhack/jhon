@@ -18,19 +18,19 @@ Repo creado en conjunto con las Padawans de Hackademy para repasar conceptos bá
 Abre una terminal en un directorio fácilmente accesible y sigue los pasos siguientes para correr la aplicación.
 
 1. Clona el repo 
-```console 
+```bash 
 git clone https://github.com/DigitalNaut/react-repaso
 ```
 3. Navega al directorio 
-```console
+```bash
 cd react-repaso
 ```
 5. Instala dependencias
-```console
+```bash
 npm install
 ```
 7. Levanta el servidor local 
-```console
+```bash
 npm start
 ```
 
